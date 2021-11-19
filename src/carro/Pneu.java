@@ -7,7 +7,6 @@ public class Pneu {
 		this.marca = marca;
 	}
 	
-
 	public String getMarca() {
 		return marca;
 	}
